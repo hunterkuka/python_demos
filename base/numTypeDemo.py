@@ -7,3 +7,5 @@ print(salary * 1.65)
 w = int(input("输入宽"))
 h = int(input("请输入高"))
 print(w * h)
+pass
+
